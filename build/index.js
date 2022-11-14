@@ -1,1 +1,1 @@
-const hello = () => "hi";
+export {};
